@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:Morfinbrood/Tank-adventure-be.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:Morfinbrood/Tank-adventure-fe.git
