@@ -8,7 +8,8 @@
     ],
     "scripts": {
       "build": "npm run build --workspaces",
-      "start": "npm run start --workspaces"
+      "start": "npm run start --workspaces",
+      "update:submodules": "git pull --recurse-submodules && git submodule update --init --recursive"
     }
   }
   
